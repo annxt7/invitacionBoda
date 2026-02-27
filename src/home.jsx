@@ -195,7 +195,7 @@ export default function WeddingInvitation() {
               Dress Code
             </h4>
             <p className="romantic-title text-3xl text-[#3d251e]">
-              Elegante / Formal
+              Sé tu mismo
             </p>
             <p className="text-[#666] text-sm max-w-xs">
               Nosotros te queremos tal y como eres, así que ven con lo que te
